@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm José Alberto</h1>
-<h3 align="center">A passionate backend developer from Mexico</h3>
 
 - 🌱 I’m currently learning **Spring boot and react**
 
