@@ -8,8 +8,7 @@
 - 📚 Siempre estoy estudiando algo nuevo para mejorar mis habilidades y seguir creciendo como desarrollador
 - 🧠 Me destaco por mi `capacidad de aprendizaje rápido` y mi enfoque en `resolver problemas reales`
 - 🌱 Buscando aplicar mis conocimientos en proyectos reales y adquirir experiencia profesional
-- 📫 Puedes contactarme por correo: [![Email](https://img.shields.io/static/v1?label=email&message=Contacto&color=EA4335&style=flat-square)](mailto:tuemail@ejemplo.com)
-- 🧩 Siempre creo que `"el aprendizaje constante es la clave del éxito"`
+- 📫 Puedes contactarme por correo: [![Email](https://img.shields.io/static/v1?label=email&message=Contacto&color=EA4335&style=for-the-badge)](mailto:albertocruz8133@proton.me)
 
 ---
 
