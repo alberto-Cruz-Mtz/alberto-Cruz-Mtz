@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Alberto Cruz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mi
 
 - 🎓 Soy estudiante de `Técnico Superior Universitario en Tecnologías de la Información` en México
 - 💻 Apasionado por la `programación` y la `arquitectura de software`
