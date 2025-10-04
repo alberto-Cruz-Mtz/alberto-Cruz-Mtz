@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mi
 
-- 🎓 Soy estudiante de `Técnico Superior Universitario en Tecnologías de la Información` en México
+- 🎓 Soy estudiante de `Ingenieria en desarrollo de software` en México
 - 💻 Apasionado por la `programación` y la `arquitectura de software`
 - 🚀 Actualmente aprendiendo y trabajando con `Java`, `Spring Boot`, `JavaScript`, `TypeScript`, `React` y bases de datos como `MySQL`, `SQLite` y `PostgreSQL`
 - 📚 Siempre estoy estudiando algo nuevo para mejorar mis habilidades y seguir creciendo como desarrollador
