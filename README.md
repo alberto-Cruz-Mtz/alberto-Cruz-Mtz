@@ -1,40 +1,96 @@
-<h1 align="center"><b>Hi , I'm Alberto Cruz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👋 ¡Hola! Soy José Alberto Cruz Martínez
 
-## 👨‍💻 Sobre mi
+¡Bienvenido a mi perfil!
 
-- 🎓 Soy estudiante de `Ingenieria en desarrollo de software` en México
-- 💻 Apasionado por la `programación` y la `arquitectura de software`
-- 🚀 Actualmente aprendiendo y trabajando con `Java`, `Spring Boot`, `JavaScript`, `TypeScript`, `React` y bases de datos como `MySQL`, `SQLite` y `PostgreSQL`
-- 📚 Siempre estoy estudiando algo nuevo para mejorar mis habilidades y seguir creciendo como desarrollador
-- 🧠 Me destaco por mi `capacidad de aprendizaje rápido` y mi enfoque en `resolver problemas reales`
-- 🌱 Buscando aplicar mis conocimientos en proyectos reales y adquirir experiencia profesional
-- 📫 Puedes contactarme por correo: [![Email](https://img.shields.io/static/v1?label=email&message=Contacto&color=EA4335&style=for-the-badge)](mailto:albertocruz8133@proton.me)
+Soy un estudiante de **Ingeniería en Desarrollo y Gestión de Software** (7/11) en 🇲🇽 México, apasionado por la creación de soluciones tecnológicas.
+
+Mi objetivo principal es convertirme en un **Desarrollador Backend**. Disfruto resolviendo problemas complejos y viendo cómo ideas simples se transforman en herramientas útiles. Comencé mi viaje en la programación con **Java**, y sigue siendo el lenguaje que más me apasiona (¡y estoy interesado en la certificación de Oracle!).
+
+Soy un gran fanático de las herramientas **Open Source** y tengo una curiosidad constante por la **arquitectura de software**.
+
+### 🌱 ¿Qué estoy buscando?
+
+Estoy en búsqueda activa de mi **primera oportunidad laboral** o de experiencias de trabajo que me permitan colaborar con otros desarrolladores. ¡Estoy listo para aprender y aportar en cualquier proyecto!
 
 ---
 
-## My Skills Include
+## 🚀 En qué estoy trabajando
 
-<h4> Languages </h4>
+Actualmente, estoy desarrollando **[Nombre de tu Proyecto aquí]**, una plataforma web para la búsqueda de prácticas profesionales. Este proyecto está inspirado en mi propia experiencia buscando mi primera oportunidad y tiene como objetivo facilitar la conexión entre estudiantes y empresas.
+
+* **Stack del Proyecto:** (Menciona las tecnologías que usas, ej. Spring Boot, React, PostgreSQL)
+* **Repositorio:** [Link a tu repositorio si es público]
+
+## 📚 Aprendiendo actualmente
+
+Siempre estoy mejorando mis habilidades. Ahora mismo estoy enfocado en:
+
+* **Arquitectura de Software:** Comprendiendo patrones y mejores prácticas para construir sistemas escalables y mantenibles.
+* **Criteria API (JPA):** Profundizando en formas avanzadas de construir consultas de base de datos de manera dinámica y segura en Java.
+
+---
+
+## 🛠️ Mi Stack Tecnológico
+
+Tengo un fuerte enfoque en el backend, pero también me siento cómodo construyendo interfaces de usuario.
+
+### Backend
+* **Lenguaje:** Java (Mi favorito)
+* **Framework:** Spring (Spring Boot, Spring Web, Spring JPA, Spring Security)
+* **Interés en:** Hibernate (en profundidad) y Jakarta EE.
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-30B03B?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-30B03B?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src= "https://img.shields.io/badge/hibernate-BDB17D.svg?style=for-the-badge&logo=hibernate&logoColor=white">
 </span>
 
-<h4>Frameworks</h4>
-<span>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+### Frontend
+* **Lenguajes:** TypeScript (Mi favorito), JavaScript, HTML5, CSS3.
+* **Framework/Librerías:** React.js
+* **Ecosistema React:** React Router, React Hook Form, TailwindCSS.
+* **Interés en:** Angular (para proyectos Spring) y Astro.
+
+<span> 
+  <img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff">
+### Bases de Datos
+* **Favorita:** PostgreSQL
+* **Conocimiento en:** MySQL, SQLite.
+
+<span> 
+  <img src="https://img.shields.io/badge/Postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+</span>
+
+### Herramientas, Entorno y OS
+* **Control de Versiones:** Git
+* **Editores:** NVIM (favorito), IntelliJ IDEA
+* **Runtime:** Bun.js (favorito), Node.js
+* **OS:** Linux (¡Mi favorito!, especialmente Arch Linux)
+* **Otros:** Docker (conocimientos básicos).
+
+<span> 
+  <img src="https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/NVIM-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=bun&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white">
+</span>
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+¡Hablemos! Puedes encontrarme en:
+
+* **LinkedIn:** [www.linkedin.com/in/jose-alberto-cruz-martínez-737635274]
+* **Correo:** [albertocruz8133@proton.me]
