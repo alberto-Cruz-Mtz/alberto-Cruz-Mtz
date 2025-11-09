@@ -16,10 +16,12 @@ Estoy en búsqueda activa de mi **primera oportunidad laboral** o de experiencia
 
 ## 🚀 En qué estoy trabajando
 
-Actualmente, estoy desarrollando **[Nombre de tu Proyecto aquí]**, una plataforma web para la búsqueda de prácticas profesionales. Este proyecto está inspirado en mi propia experiencia buscando mi primera oportunidad y tiene como objetivo facilitar la conexión entre estudiantes y empresas.
+Actualmente, estoy desarrollando **Puente Practicas**, una plataforma web para la búsqueda de prácticas profesionales. Este proyecto está inspirado en mi propia experiencia buscando mi primera oportunidad y tiene como objetivo facilitar la conexión entre estudiantes y empresas.
 
-* **Stack del Proyecto:** (Menciona las tecnologías que usas, ej. Spring Boot, React, PostgreSQL)
-* **Repositorio:** [Link a tu repositorio si es público]
+* **Stack del Proyecto:** Java, Spring, Typescript, React, Postgresql
+* **Repositorio:**
+  - <https://github.com/alberto-Cruz-Mtz/puente-practicas-frontend>
+  - <https://github.com/alberto-Cruz-Mtz/puente-practicas-api>
 
 ## 📚 Aprendiendo actualmente
 
