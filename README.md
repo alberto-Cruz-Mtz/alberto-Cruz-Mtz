@@ -94,5 +94,5 @@ Tengo un fuerte enfoque en el backend, pero también me siento cómodo construye
 
 ¡Hablemos! Puedes encontrarme en:
 
-* **LinkedIn:** [www.linkedin.com/in/jose-alberto-cruz-martínez-737635274]
+* **LinkedIn:** [www.linkedin.com/in/alberto-cruz-mtz]
 * **Correo:** [albertocruz8133@proton.me]
